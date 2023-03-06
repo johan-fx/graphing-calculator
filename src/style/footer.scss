@@ -12,7 +12,7 @@
   margin: 0 auto;
 
   & > .icon {
-    margin-right: 1rem;
+    margin-right: 0.2rem;
 
     & > svg {
       height: 2rem;
@@ -29,6 +29,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     width: 100%;
+    margin-top: 5px;
 
     & > .item {
       margin-left: 1rem;
